@@ -1,5 +1,7 @@
 # hiphop
 
+嘻哈影院，一款基于vuejs以及nodejs 的单页面应用
+
 ## hiphopclient
 ### hiphopclient Project setup
 ```
