@@ -1,4 +1,4 @@
-# hiphop
+# hiphopclient
 
 ## Project setup
 ```
